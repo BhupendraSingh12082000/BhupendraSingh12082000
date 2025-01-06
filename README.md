@@ -1,2 +1,1 @@
-## Hi 👋,
-### <center>I am Bhupendra Singh </center>
+## Hi 👋, <center>I am Bhupendra Singh </center>
