@@ -13,13 +13,13 @@
 
 ## 🛠️ Languages and Tools:
 
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="48"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" height="48"/>
-<img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-fastapi-web-development-soft-fill-soft-fill-juicy-fish.png"/>
-<img src="https://img.icons8.com/color/48/000000/jupyter.png"/>
-<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/>
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
+![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)
+![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![Streamlit](https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg)
+![FastAPI](https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-fastapi-web-development-soft-fill-soft-fill-juicy-fish.png)
+![Jupyter](https://img.icons8.com/color/48/000000/jupyter.png)
+![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
 
