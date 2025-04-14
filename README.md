@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bhupendra Singh
 
-🌏 I’m based in Gwalior, MadhyaPradesh, India
-💻 I have done MCA graduate .
+🌏 I’m based in Gwalior, Madhya Pradesh, India <br>
+💻 I have done MCA graduate.
 
 🚀 My Projects:
 - 🔍  I'm working on Machine Learning Project.
@@ -9,13 +9,14 @@
 - 💬 Expert In Python, SQL, Machine Learning, Deep Learning, NLP, GenerativeAI, MLops
 
 📬 **How to reach me:** [singhbhupendra1208@gmail.com](mailto:singhbhupendra1208@gmail.com)
-📫 Reach me at: [LinkedIn](your-[linkedin-link](https://www.linkedin.com/in/bhupendra-singh-315737245/)) | [Email](mailto:singhbhupendra1208@gmail)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/bhupendra-singh-315737245/)
 
 ## 🛠️ Languages and Tools:
-
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/matlab.png" alt="MathWorks"/>
+<img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="48"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" height="48"/>
